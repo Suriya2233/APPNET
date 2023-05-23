@@ -9,7 +9,7 @@
       }
 ,
 {
-         "name": "VIP-RCADYIDC-TH-01-TURE",
+         "name": "VIP-RCADYIDC-TH-01-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-T.ovpn"
       }
 
@@ -35,5 +35,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
