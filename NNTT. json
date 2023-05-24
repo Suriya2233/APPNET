@@ -4,12 +4,17 @@
 
 
 {
+         "name": "VIP-RCADYIDC-TH-01-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-A.ovpn"
+      }
+,
+{
          "name": "VIP-RCADYIDC-TH-01-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-D.ovpn"
       }
 ,
 {
-         "name": "VIP-RCADYIDC-TH-01-TRUE",
+         "name": "VIP-RCADYIDC-TH-01-TURE",
          "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-T.ovpn"
       }
 
@@ -24,9 +29,6 @@
 ✅ราคาประหยัด
 ✅ถูก สะดวก รวดเร็ว
 ✅ที่สำคัญปลอดภัยแน่นอน
-
-✅️ไม่มีโฆษณา
-✅️ไม่ต้องกดเพิ่มเวลา
 ✅️ไม่มีเก็บเงินย้อนหลัง
 
 🧸รองรับทุกการใช้งาน
