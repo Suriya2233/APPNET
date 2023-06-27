@@ -32,6 +32,21 @@
          "name": "VIP-RCADYIDC-TH-02-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/VIP-Thailand-TRUE.ovpn"
       }
+,
+{
+         "name": "VIP-RCADYIDC-TH-03-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/SV-03-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-RCADYIDC-TH-03-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/SV-03-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-RCADYIDC-TH-03-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/SV-03-TRUE.ovpn"
+      }
 
 
 
@@ -52,5 +67,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":4
+   "version":5
 }
